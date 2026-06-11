@@ -1,0 +1,6 @@
+{
+  "name": "Android Geolocation & Firestore Sim",
+  "description": "Simulador interactivo y suite de código MVVM para geolocalización Android en Kotlin, Jetpack Compose y Firestore.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
